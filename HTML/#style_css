@@ -1,20 +1,20 @@
-body{
-            background-image: url('theweekend2.jpeg');
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-size: 1500px 1000px ; 
-            background-position: center;
-        }
-	img{ 
-        background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-size: 500px;
-            background-position: center;
-	}
-   audio {
-            display: block;
-            margin: 10px auto;
-            width: 50%;
-        }
-    p{font-size: 130%;
-    }
+body {
+    background-image: url('thwk.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover ; 
+    background-position: center;
+ }
+img{ 
+background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 500px;
+    background-position: center;
+}
+audio {
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+}
+p{font-size: 130%;
+}
