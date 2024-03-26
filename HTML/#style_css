@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('thwk.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+ }
+img{ 
+background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 500px;
+    background-position: center;
+}
+audio {
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+}
+p{font-size: 130%;
+}
